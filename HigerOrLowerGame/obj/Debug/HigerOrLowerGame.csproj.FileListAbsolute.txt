@@ -1,0 +1,6 @@
+c:\users\rhys\documents\visual studio 2015\Projects\HigerOrLowerGame\HigerOrLowerGame\bin\Debug\HigerOrLowerGame.exe.config
+C:\Users\Rhys\documents\visual studio 2015\Projects\HigerOrLowerGame\HigerOrLowerGame\bin\Debug\HigerOrLowerGame.exe
+C:\Users\Rhys\documents\visual studio 2015\Projects\HigerOrLowerGame\HigerOrLowerGame\bin\Debug\HigerOrLowerGame.pdb
+C:\Users\Rhys\documents\visual studio 2015\Projects\HigerOrLowerGame\HigerOrLowerGame\obj\Debug\HigerOrLowerGame.csprojResolveAssemblyReference.cache
+C:\Users\Rhys\documents\visual studio 2015\Projects\HigerOrLowerGame\HigerOrLowerGame\obj\Debug\HigerOrLowerGame.exe
+C:\Users\Rhys\documents\visual studio 2015\Projects\HigerOrLowerGame\HigerOrLowerGame\obj\Debug\HigerOrLowerGame.pdb
